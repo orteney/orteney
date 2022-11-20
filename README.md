@@ -2,6 +2,8 @@
 
 I'm Dmitriy Orteney, a mobile developer who enjoy using [Flutter](https://github.com/flutter/flutter) to build apps.
 
+I'm currently developing a desktop application with flutter -> [Sebastian](https://github.com/orteney/sebastian).
+
 ### Reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-orteney-148478161) [![Telegram Badge](https://img.shields.io/badge/Telegram-808080?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orteney)
