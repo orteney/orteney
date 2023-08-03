@@ -6,7 +6,7 @@ I'm currently developing a desktop application with flutter -> [Sebastian](https
 
 ### Reach me
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-orteney-148478161) [![Telegram Badge](https://img.shields.io/badge/Telegram-808080?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orteney)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orteney/) [![Telegram Badge](https://img.shields.io/badge/Telegram-808080?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orteney)
 
 <!--
 **orteney/orteney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
